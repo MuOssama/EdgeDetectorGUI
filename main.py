@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import cv2
 import tkinter as tk
 from tkinter import Entry, Canvas, StringVar, Label, Button
@@ -84,8 +83,7 @@ def main():
 
     window.mainloop()
 
-if __name__ == "__main__":
-=======
+
 import cv2
 import tkinter as tk
 from tkinter import Entry, Canvas, StringVar, Label, Button
