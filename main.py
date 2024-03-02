@@ -172,5 +172,4 @@ def main():
     window.mainloop()
 
 if __name__ == "__main__":
->>>>>>> 0386da04daf82a127f9a32341772ed0531448597
     main()
